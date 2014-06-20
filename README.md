@@ -1,4 +1,4 @@
-Exercise3 instructions:
+Instructions:
 
 step1: start the python script to indexing the book, will be created a file GutenbergBook.csv
 	- python create_doc_index.py book
